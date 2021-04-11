@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Cac
 layout: category
 order: 2
 ---
